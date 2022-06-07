@@ -1,3 +1,3 @@
-#Machine-Learning-Assignments
+# Machine-Learning-Assignments
 
-###This repository contains all my Machine-Learning-Course assignments
+### This repository contains all my Machine-Learning-Course assignments
